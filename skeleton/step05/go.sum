@@ -1,3 +1,4 @@
+github.com/tenntenn/gohandson v0.0.0-20200316080448-cef9691e4905 h1:30Gi+e6GDGghOD1NOHfuZ21fnktsTk2hmabPZxH3iQU=
 github.com/tenntenn/greeting/v2 v2.1.0 h1:SD0Qx/kzr0MYDglhFPzNR4zk846+Z5T0Ol+Odr9Pk4c=
 github.com/tenntenn/greeting/v2 v2.1.0/go.mod h1:EkHY3zj6AR1MtKVmdhvooxb+zIUEihioi7gG93rsX5I=
 golang.org/x/text v0.3.6 h1:aRYxNxv6iGQlyVaZmk6ZgYEDa+Jg18DxebPSrd6bg1M=
